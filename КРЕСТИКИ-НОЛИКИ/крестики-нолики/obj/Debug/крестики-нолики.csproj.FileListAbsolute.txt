@@ -1,0 +1,33 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Form1.resources
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Properties.Resources.resources
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.exe
+C:\Users\c_class\Desktop\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.pdb
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe.config
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.exe
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.pdb
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.pdb
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Form1.resources
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Properties.Resources.resources
+C:\Users\student\Desktop\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csproj.GenerateResource.Cache
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe.config
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.exe
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.pdb
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.exe
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\bin\Debug\крестики-нолики.pdb
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csprojResolveAssemblyReference.cache
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Form1.resources
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики_нолики.Properties.Resources.resources
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\крестики-нолики\крестики-нолики\obj\Debug\крестики-нолики.csproj.GenerateResource.Cache
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\КРЕСТИКИ-НОЛИКИ\крестики-нолики\bin\Debug\крестики-нолики.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\КРЕСТИКИ-НОЛИКИ\крестики-нолики\obj\Debug\крестики-нолики.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\КРЕСТИКИ-НОЛИКИ\крестики-нолики\obj\Debug\крестики-нолики.pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\КРЕСТИКИ-НОЛИКИ\крестики-нолики\bin\Debug\крестики-нолики.exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\КРЕСТИКИ-НОЛИКИ\крестики-нолики\obj\Debug\крестики-нолики.exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\КРЕСТИКИ-НОЛИКИ\крестики-нолики\obj\Debug\крестики-нолики.pdb
